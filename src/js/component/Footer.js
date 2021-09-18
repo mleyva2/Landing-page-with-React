@@ -1,4 +1,8 @@
 import React from "react";
 export function Footer() {
-	return <footer></footer>;
+	return (
+		<div className="footer">
+			<p>@</p>
+		</div>
+	);
 }

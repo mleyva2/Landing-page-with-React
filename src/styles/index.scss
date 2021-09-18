@@ -11,3 +11,45 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.footer{
+    background-color: #343a40;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px;
+    color: white;
+    text-align: center;
+}
+
+.card {
+    width: 18rem;
+    background-color:white;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.footer{
+    color: white; 
+}
+
+.jumcolor {
+    background-color: lightgrey;
+}
+
+.div{
+    height: 250px;
+    margin: auto;
+    width: 75%;
+}
+
+.card1{
+    margin-left: -3px;
+}
+
+.card4{
+    margin-right: -3px;
+}
